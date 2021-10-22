@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 21 18:57:40 2021
-
-@author: Seba Ortega
-"""
 
 class cola:
     
